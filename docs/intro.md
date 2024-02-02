@@ -2,20 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's get started with **sbom.cc**, *SBOM Parsing for Humans*.
 
-## Getting Started
+## Parse a local SBOM file
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Get started by parsing a local SBOM file.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+sbom.cc runs on modern versions of Linux and macOS.
+
+Tested on:
+
+- macOS 14 (Apple M1/M2)
+- Ubuntu 22.04.02 (Linux 5.15)
+
+## Install bogu
 
 ## Generate a new site
 
