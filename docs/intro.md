@@ -19,7 +19,7 @@ Tested on:
 - macOS 14 (Apple M1/M2)
 - Ubuntu 22.04.02 (Linux 5.15)
 
-## Install bogu
+## Install sbom.cc
 
 ## Generate a new site
 
