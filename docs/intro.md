@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Getting Started
 
-Let's get started with **sbom.cc**, *SBOM Parsing for Humans*.
+Let's get started with **sbom.cc**, _SBOM Parsing for Humans_.
 
 ## Parse a local SBOM file
 
@@ -24,3 +24,15 @@ Tested on:
 Get the latest version of sbom.cc from our releases and unzip it.
 
 Here's an example using Ubuntu.
+
+```bash
+wget https://github.com/SBOMcc/sbomcc/releases/download/0.0.1/sbomcc-0.0.1-linux-x64.zip
+unzip sbomcc-0.0.1-linux-x64.zip
+cd sbomcc-0.0.1/bin
+```
+
+## Parse a local SBOM
+
+```bash
+./sbom -f spdx.json
+```
