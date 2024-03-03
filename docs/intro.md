@@ -34,5 +34,5 @@ cd sbomcc-0.0.1/bin
 ## Parse a local SBOM
 
 ```bash
-./sbom -f spdx.json
+./sbomcc -f spdx.json
 ```
