@@ -26,9 +26,9 @@ Get the latest version of sbom.cc from our releases and unzip it.
 Here's an example using Ubuntu.
 
 ```bash
-wget https://github.com/SBOMcc/sbomcc/releases/download/0.0.1/sbomcc-0.0.1-linux-x64.zip
-unzip sbomcc-0.0.1-linux-x64.zip
-cd sbomcc-0.0.1/bin
+wget https://github.com/SBOMcc/sbomcc/releases/download/0.0.2/sbomcc-0.0.2-linux-x64.zip
+unzip sbomcc-0.0.2-linux-x64.zip
+cd sbomcc-0.0.2/bin
 ```
 
 ## Parse a local SBOM
