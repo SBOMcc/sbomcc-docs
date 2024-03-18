@@ -30,6 +30,10 @@ Exclude SBOM Section(s).
 
 Filter using text or regular expression.
 
+### -w, --web
+
+Web Server Mode.
+
 ## Mutually Exclusive Options
 
 ### --version
