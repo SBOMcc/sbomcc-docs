@@ -18,8 +18,8 @@ sbomcc --file mock/spdx.json --web
 
 ### Light Mode
 
-![Light Mode](/static/img/web-light.png)
+![Light Mode](/img/web-light.png)
 
 ### Dark Mode
 
-![Dark Mode](/static/img/web-dark.png)
+![Dark Mode](/img/web-dark.png)
